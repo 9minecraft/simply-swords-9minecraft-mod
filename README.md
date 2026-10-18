@@ -8,6 +8,19 @@ An unofficial rebuild of **Konsyliarz42 (Art), Sweenus**'s original work, kept r
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+| 26.2 | — |
+
+## Requires
+
+- **Fzzy Config**
+- **Fabric Language Kotlin**
+- **KotlinLangForge**
+
 ## Source
 
 The original is not released under terms that let us republish its code, so there is none here and there will not be. This repository is notes and nothing more.
